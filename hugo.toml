@@ -1,5 +1,5 @@
 # Basic config
-baseURL = "https://example.com"
+baseURL = "https://jzjf202703.github.io/"
 theme = "hugo-simple"
 languageCode = "zh-Hans"                # zh-Hans
 title = "交中嘉分2027届3班"
@@ -50,7 +50,7 @@ pageRef = "/"
 weight = 10
 [[menu.main]]
 name = "Blog"
-pageRef = "/blog"
+pageRef = "https://jzjf202703.github.io/blogs"
 weight = 20
 
 [services.rss]
