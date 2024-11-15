@@ -27,9 +27,10 @@ __*Cindy*__
    - Stuffed Bears
    - Teddy Bears
 
+<p color="purple">Per aspera ad astra.</p>
+
 :peach: :hammer: :cactus:
 
-![](https://pic.imgdb.cn/item/67375dadd29ded1a8cd0ec45.png)
-![](https://pic.imgdb.cn/item/67375dadd29ded1a8cd0ec8b.png)
 ![](https://pic.imgdb.cn/item/67375dadd29ded1a8cd0ecd1.png)
 ![](https://pic.imgdb.cn/item/67375daed29ded1a8cd0ed18.png)https://pic.imgdb.cn/item/67375daed29ded1a8cd0ed18.png)
+
